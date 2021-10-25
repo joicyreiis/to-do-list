@@ -10,8 +10,8 @@ Entre na pasta do projeto e execute o comando abaixo para instalar as dependênc
 
 `npm install`
 
-Para abrir a aplicação, execute o comando:
+Para rodar a aplicação, execute o comando:
 
-`npm run serve`
+`nodemon index.js`
 
-Acesse a rota: `localhost:<porta>`
+Acesse a rota: `localhost:4000/tarefas`
